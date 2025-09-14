@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>
-    Cybersecurity Enthusiast | Ethical Hacker | Lifelong Learner
+    Cybersecurity Enthusiast | Lifelong Learner
   </strong>
 </p>
 
