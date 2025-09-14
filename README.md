@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-  Hi there, I'm [Nama Lengkap Anda]!
+  Hi there, I'm A. Wijaya Kusuma!
 </h1>
 
 <p align="center">
@@ -15,15 +15,7 @@
 
 <br>
 
-> Seorang pegiat Keamanan Siber dari **Sidoarjo, Indonesia** yang bersemangat dalam menemukan celah keamanan dan membangun sistem yang lebih aman. Saat ini sedang mencari peluang untuk berkontribusi dalam dunia keamanan siber profesional.
-
-<br>
-
-- 🔭 Saya sedang mengerjakan **[Nama Proyek Pribadi Anda, misal: CTF Writeups, Tools Otomatisasi, dll]**.
-- 🌱 Saat ini sedang mendalami **[Teknologi Baru, misal: Cloud Security (AWS/GCP), Malware Analysis, dll]**.
-- 💼 Terbuka untuk kesempatan kerja dan kolaborasi pada proyek terkait keamanan siber.
-- 📫 Cara menghubungi saya: **[Alamat Email Profesional Anda]** atau melalui LinkedIn.
-- ⚡ Fakta unik: **[Fakta Unik Tentang Anda, misal: Saya bisa menyelesaikan Rubik's Cube sambil mendengarkan podcast keamanan.]**
+> A tech enthusiast from Sidoarjo, Indonesia, who is passionate about finding security holes and building more secure systems. Currently seeking opportunities to contribute to the professional world of cybersecurity.
 
 <hr>
 
@@ -54,15 +46,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
 
 <hr>
 
