@@ -37,12 +37,12 @@
       <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
       <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="padding: 10px;">
       <strong>Areas of Interest</strong><br><br>
-      Web Pentesting<br>
-      Network Security<br>
-      Bug Bounty Hunting<br>
-      Digital Forensics
+      <img src="https://img.shields.io/badge/Web Pentesting-BB9AF7?style=for-the-badge" alt="Web Pentesting"><br>
+      <img src="https://img.shields.io/badge/Network Security-7DCFFF?style=for-the-badge" alt="Network Security"><br>
+      <img src="https://img.shields.io/badge/Bug Bounty Hunting-F7768E?style=for-the-badge" alt="Bug Bounty Hunting"><br>
+      <img src="https://img.shields.io/badge/Digital Forensics-9ECE6A?style=for-the-badge" alt="Digital Forensics">
     </td>
   </tr>
 </table>
