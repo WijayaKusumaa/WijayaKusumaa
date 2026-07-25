@@ -1,73 +1,122 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Wijaya%20Kusuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20•%20Security%20Researcher%20•%20Lifelong%20Learner&descAlignY=58" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-  Hi there, I'm Wijaya!
-</h1>
+<h3 align="center">
+Building secure systems through continuous learning and ethical security research.
+</h3>
 
-<p align="center">
-  <strong>
-    Cybersecurity Enthusiast | Lifelong Learner
-  </strong>
+---
+
+## About Me
+
+I'm a cybersecurity enthusiast from **Indonesia** with a strong interest in offensive security, web application security, and digital investigations.
+
+I enjoy learning how systems work, identifying security weaknesses responsibly, and continuously improving my technical skills through hands-on labs, Capture The Flag (CTF) challenges, and real-world projects.
+
+Currently focused on:
+
+- Web Application Security
+- Penetration Testing
+- Network Security
+- Digital Forensics
+- OSINT
+- Secure Development
+
+---
+
+## Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,java,mysql"/>
 </p>
 
-<br>
+### Security
 
-> A tech enthusiast from Sidoarjo, Indonesia, who is passionate about finding security holes and building more secure systems. Currently seeking opportunities to contribute to the professional world of cybersecurity.
-
-<hr>
-
-<h2 align="center">🛠️ My Tech Stack & Tools</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Languages & Scripting</strong><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    </td>
-    <td align="center" width="33%">
-      <strong>Cybersecurity Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-    </td>
-    <td align="center" width="33%" style="padding: 10px;">
-      <strong>Areas of Interest</strong><br><br>
-      <img src="https://img.shields.io/badge/Web Pentesting-BB9AF7?style=for-the-badge" alt="Web Pentesting"><br>
-      <img src="https://img.shields.io/badge/Network Security-7DCFFF?style=for-the-badge" alt="Network Security"><br>
-      <img src="https://img.shields.io/badge/Bug Bounty Hunting-F7768E?style=for-the-badge" alt="Bug Bounty Hunting"><br>
-      <img src="https://img.shields.io/badge/Digital Forensics-9ECE6A?style=for-the-badge" alt="Digital Forensics">
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://[URL_LINKEDIN_ANDA]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://[URL_BLOG_ANDA]">
-    <img src="https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://[URL_HACKTHEBOX_ANDA]">
-    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box">
-  </a>
-  <a href="https://[URL_TRYHACKME_ANDA]">
-    <img src="https://img.shields.io/badge/TryHackMe-880000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,vscode"/>
 </p>
 
-<hr>
+**Tools**
+
+`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `OWASP ZAP` • `SQLMap` • `John the Ripper`
+
+---
+
+## Current Focus
+
+```text
+Web Penetration Testing
+███████████████░░░ 85%
+
+Network Security
+█████████████░░░░ 75%
+
+Digital Forensics
+███████████░░░░░░ 65%
+
+Cloud Security
+█████████░░░░░░░░ 55%
+```
+
+---
+
+## Learning Journey
+
+- Google Cloud Skills Boost
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+- CyberDefenders
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEANDA&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="visitors count">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAMEANDA&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEANDA&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAMEANDA&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://tryhackme.com/p/USERNAME">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+
+<a href="https://app.hackthebox.com/profile/USERNAME">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+</a>
+
+<a href="https://medium.com/@USERNAME">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Security is not a product, but a continuous process of learning, testing, and improving."*
+
 </p>
