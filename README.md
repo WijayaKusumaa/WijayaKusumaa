@@ -16,9 +16,9 @@
          \__.       \/^\/       .__/        . Hobbies.Defensive: ....... Malware Analysis, DFIR
           V| \                 / |V
            | |T~\___!___!___/~T| |          - Contact -------------------------------------------
-           | |`IIII_I_I_I_IIII'| |          . Email.Personal: .......... contact@yourdomain.com
+           | |`IIII_I_I_I_IIII'| |          . Email.Personal: .......... contact@wijayakusuma.com
            |  \,III I I I III,/  |          . GitHub: .................. github.com/WijayaKusumaa
-            \   `~~~~~~~~~~'    /           . LinkedIn: ................ linkedin.com/in/username
+            \   `~~~~~~~~~~'    /           . LinkedIn: ................ linkedin.com/in/wijaya
               \   .       .   /             . HackTheBox: .............. app.hackthebox.com/profile
                 \.    ^    ./
                   ^~~~^~~~^                 - GitHub Stats --------------------------------------
