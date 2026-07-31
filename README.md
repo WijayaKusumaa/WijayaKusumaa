@@ -20,14 +20,13 @@
 <br/>
 
 <!-- Stats + Top languages — side by side -->
-<!-- GANTI [URL_VERCEL_ANDA] DENGAN URL VERCEL GITHUB-README-STATS MILIK ANDA SENDIRI -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://[URL_VERCEL_ANDA]/api?username=WijayaKusumaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://[URL_VERCEL_ANDA]/api?username=WijayaKusumaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Wijaya's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=WijayaKusumaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=WijayaKusumaa&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Wijaya's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://[URL_VERCEL_ANDA]/api/top-langs/?username=WijayaKusumaa&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://[URL_VERCEL_ANDA]/api/top-langs/?username=WijayaKusumaa&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=WijayaKusumaa&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=WijayaKusumaa&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
 </div>
@@ -37,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/output/snake-light.svg" />
 </picture>
 
 </div>
@@ -47,6 +46,9 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/projects/projects.svg" alt="Projects" />
+</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
@@ -71,3 +73,5 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- =================================== -->
