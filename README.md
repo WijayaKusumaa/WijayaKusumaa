@@ -43,12 +43,6 @@
 
 </div>
 
-<!-- ===== END SNAKE ===== -->
-<br/>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/projects/projects.svg" alt="Projects" />
-</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
