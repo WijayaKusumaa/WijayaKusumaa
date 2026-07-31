@@ -7,7 +7,62 @@
   <img alt="Wijaya Kusuma" src="https://raw.githubusercontent.com/WijayaKusumaa/WijayaKusumaa/main/light.svg">
 </picture>
 
+<!-- ===== TECH STACK & TOOLS ===== -->
+<br/>
+
+<div align="center">
+  <h2>🛠️ My Tech Stack & Tools</h2>
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages & Scripting</b>
+    </td>
+    <td align="center" width="33%">
+      <b>Cybersecurity Tools</b>
+    </td>
+    <td align="center" width="33%">
+      <b>Areas of Interest</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/-Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
+      <img src="https://img.shields.io/badge/-JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Bash-0A101F?style=for-the-badge&logo=gnu-bash&logoColor=22D3EE" alt="Bash" />
+      <img src="https://img.shields.io/badge/-SQL-0A101F?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="SQL" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/-Kali_Linux-0A101F?style=for-the-badge&logo=kalilinux&logoColor=10B981" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/-Burp_Suite-0A101F?style=for-the-badge&logo=burpsuite&logoColor=10B981" alt="Burp Suite" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-Metasploit-0A101F?style=for-the-badge&logo=metasploit&logoColor=10B981" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/-Nmap-0A101F?style=for-the-badge&logo=nmap&logoColor=10B981" alt="Nmap" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Web_Pentesting-A78BFA?style=for-the-badge&logoColor=white" alt="Web Pentesting" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Network_Security-22D3EE?style=for-the-badge&logoColor=white" alt="Network Security" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Bug_Bounty-10B981?style=for-the-badge&logoColor=white" alt="Bug Bounty Hunting" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Digital_Forensics-0891B2?style=for-the-badge&logoColor=white" alt="Digital Forensics" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
 <!-- ===== CONTRIBUTION SNAKE ===== -->
+
 
 <div align="center">
 
